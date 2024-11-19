@@ -1,6 +1,5 @@
 # Intel X86 Assembler 
-
-A cross-platform assembler designed to translate Intel x86 assembly language into machine code for execution on an emulated Intel machine with a graphics card.
+Over the summer, I worked as a research developer at The Prometheus Artificial Intelligence Lab at McGill University. My Project was to implement a cross-platform assembler designed to translate Intel x86 assembly language into machine code for execution on an emulated Intel machine with a graphics card.
  
  ## Description
  
